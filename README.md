@@ -1,1 +1,1 @@
-# TournamentManager
+# Akka.Net Core Samples
